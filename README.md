@@ -43,6 +43,3 @@ I'm Michael (he/his), a Mechatronics Engineering🤖 student at Western Universi
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg
