@@ -4,7 +4,7 @@
 **morbe65/morbe65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### About Me
-I'm Michael (he/his), a Mechatronics Engineering🤖 student at Western University. I love to play ⚽ and am currentlt trying to learn how to 3D print.
+I'm Michael (he/his), a Mechatronics Engineering🤖 student at Western University. I love to play ⚽ and am currently trying to learn how to 3D print.
 
 ### 🔭 I’m currently working on
 <ul>
