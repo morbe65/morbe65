@@ -1,16 +1,12 @@
-### 🙋‍♂️Hi! I'm Michael 🐱‍💻
-
-<!--
-**morbe65/morbe65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### 🙋‍♂️Hi! I'm Michael 🙉🧑🏼‍💻
 
 ### About Me
-I'm Michael (he/his), a Mechatronics Engineering🤖 student at Western University. I love to play ⚽ and am currently trying to learn how to 3D print.
+I'm Michael. Looking to for new projects and technologies to hone my skills on. Special interest in hardware based science.
 
 ### 🔭 I’m currently working on
 <ul>
-  <li> Co-lead on 🍁MapleHacks. A new charity based hackathon at Western University</li>
-  <li> Developing a webiste to give recipes based on what you have in your home🏠</li>
-  <li> Starting up a 🍄 based alternative to plastic company</li>
+  <li> Developing an application to help near blind individuals use email</li>
+  <li> Looking for other projects to work on too</li>
 </ul>
 
 
@@ -35,11 +31,5 @@ I'm Michael (he/his), a Mechatronics Engineering🤖 student at Western Universi
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgresQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
